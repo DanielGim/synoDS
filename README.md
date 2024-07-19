@@ -15,3 +15,6 @@
 - You can monitor the NAS system (administrator function).
 
 
+# Privacy policy
+
+- We do not use your personal information.
